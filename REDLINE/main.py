@@ -56,7 +56,7 @@ def main():
         logo()
         select = input(f"""
 ╔═══[root@{Fore.LIGHTRED_EX}REDLINE{Fore.RESET}]~$
-╚══>""")
+╚══> """)
 
         if select == "1" or select.lower() == "1":
             log()
