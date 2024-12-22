@@ -11,7 +11,7 @@
 git clone https://github.com/madanokr001/REDLINE-v1.0.git
 ```
 ```
-cd REDLINE-v1.0/REDLINE
+cd REDLINE/REDLINE
 ```
 ```
 ls
