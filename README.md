@@ -1,6 +1,6 @@
 
 # REDLINE - Keylogger 🐞
-**Our tool is a powerful and lightweight keylogger designed for seamless monitoring. With three flexible options—Email, Webhook, and File Storage—you can choose how and where to store the captured data.**
+**Our tool is a powerful and lightweight keylogger designed for seamless monitoring. With three flexible options Email, Webhook, and File Storage you can choose how and where to store the captured data.**
 
 # ScreenShot📷:
 ![image](https://github.com/user-attachments/assets/2f571b81-c1ed-4600-a204-1d0c1f060b06)
